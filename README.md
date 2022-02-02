@@ -5,7 +5,7 @@ I made it so that it can be played on the phone, and the game calculates the sco
 
 ---
 
-##Crdits
+## Credits
 
 - Programming - Ernest Subotić
 - Music - Roaylty Free Music from Bensound
