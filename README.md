@@ -5,7 +5,7 @@ I made it so that it can be played on the phone, and the game calculates the sco
 
 ---
 
-![alt text](https://github.com/Subo00/Jamb/blob/master/Jamb/GooglePlayStuff/Pics/Screenshot_20211026_155500_com.DefaultCompany.Jamb2D.jpg = 250x250)
+![alt text](https://github.com/Subo00/Jamb/blob/master/Jamb/GooglePlayStuff/Pics/Screenshot_20211026_155500_com.DefaultCompany.Jamb2D.jpg)
 
 
 ---
